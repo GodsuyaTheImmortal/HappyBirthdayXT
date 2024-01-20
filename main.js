@@ -304,10 +304,9 @@ function reveal() {
   }
   
   var ifrm = document.createElement("iframe");
-  ifrm.setAttribute("src", "https://www.youtube.com/embed/JGwWNGJdvx8");
-  ifrm.style.border = 'none';
-  document.querySelector('#video').appendChild(ifrm);
-  
+    ifrm.setAttribute("src", "https://www.youtube.com/embed/GsF05B8TFWg");
+    ifrm.style.border = 'none';
+    document.querySelector('#video').appendChild(ifrm);
 
 }
 
